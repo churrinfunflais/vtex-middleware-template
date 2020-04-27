@@ -1,6 +1,11 @@
 # VTEX Middleware Template
 
-General template for VTEX entities integration outbound and inbound
+General template for VTEX diferent entities integration outbound and inbound
+
+Inventory
+Prices
+MasterData
+Orders
 
 ## Installation
 
