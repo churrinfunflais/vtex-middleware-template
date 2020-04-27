@@ -2,10 +2,12 @@
 
 General template for VTEX diferent entities integration outbound and inbound
 
+```bash
 Inventory
 Prices
-MasterData
 Orders
+MasterData
+```
 
 ## Installation
 
